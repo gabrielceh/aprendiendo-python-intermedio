@@ -1,0 +1,17 @@
+{
+    "name": "Gabriel",
+    "lastname": "Cervantes",
+    "age": 32,
+    "country": "Colombia",
+    "skills": [
+        "javascript",
+        "Css",
+        "Html",
+        "Node",
+        "React"
+    ],
+    "social_networks": {
+        "twitter": "@gabrielcehu",
+        "instagram": "@gabo_cervantes"
+    }
+}

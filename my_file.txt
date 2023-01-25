@@ -1,0 +1,23 @@
+Mi nombre es Gabriel
+Mi apellido es Cervantes
+32 años
+Me gusta Javascript
+
+He aprendido los frameworks: React js, Vue js
+Esta line se hizo con a
+Escribiendo con with, no necesita close
+He aprendido los frameworks: React js, Vue js
+Esta line se hizo con a
+Escribiendo con with, no necesita close
+He aprendido los frameworks: React js, Vue js
+Esta line se hizo con a
+Escribiendo con with, no necesita close
+He aprendido los frameworks: React js, Vue js
+Esta line se hizo con a
+Escribiendo con with, no necesita close
+He aprendido los frameworks: React js, Vue js
+Esta line se hizo con a
+Escribiendo con with, no necesita close
+He aprendido los frameworks: React js, Vue js
+Esta line se hizo con a
+Escribiendo con with, no necesita close
